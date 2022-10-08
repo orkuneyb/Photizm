@@ -1,16 +1,18 @@
-# photizm_app
+# Photizm
 
-A new Flutter project.
+Fotoğraf paylaşıp, arkadaşlarınızı takip edip, fotoğraflarını beğenebilip ve yorum yapabileceğiniz küçük bir uygulama...
 
-## Getting Started
+## Uygulama Hakkında
 
-This project is a starting point for a Flutter application.
+Bitirme projem olan Photizm bir sosyal medya uygulamasıdır. Database olarak Firebase kullanılmıştır.
 
-A few resources to get you started if this is your first Flutter project:
+Uygulamanın Youtube tanıtım videosu:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Photizm Tanıtım Videosu](https://www.youtube.com/watch?v=7aCPMkvvdmA)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Uygulama içi fotoğraflar:
+- ![Photizm_Fotolar](https://user-images.githubusercontent.com/77841710/194728844-f1c517ce-5f2b-4ffd-831e-c312106f3277.jpg)
+
+Eğer bir sorunuz varsa bana ulaşabilirsiniz.
+- Mail: orkuneyb@gmail.com
+- LinkedIn: https://www.linkedin.com/in/orkuneyb/
